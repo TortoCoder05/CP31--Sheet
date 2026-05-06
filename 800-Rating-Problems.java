@@ -61,8 +61,7 @@ public class Main {
             }
             
            System.out.print(Max);
-           System.out.println();
-            
+           System.out.println(); 
             t--;
         }
     }
